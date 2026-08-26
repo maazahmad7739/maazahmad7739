@@ -1,6 +1,6 @@
 Hi there 👋
 
-- 🔭 I’m currently in my 4th year of undergrads
-- 🌱 I’m currently learning html, css, javascript, and mongoDB
-- 👯 Ask me about Github
-  
+* 🔭 Software Engineer Intern, building AI-powered tools and automation
+* 🌱 Currently exploring AI, Python, TypeScript, backend engineering & system design
+* 🛠️ Working with JavaScript, React, Node.js, Next.js, MongoDB & Python
+* 👯 Ask me about GitHub, web development, or AI tooling
